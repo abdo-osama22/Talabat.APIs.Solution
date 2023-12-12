@@ -1,0 +1,15 @@
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll

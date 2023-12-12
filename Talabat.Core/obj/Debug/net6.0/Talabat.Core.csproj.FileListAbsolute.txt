@@ -1,0 +1,12 @@
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Work\Personaly\Route\API\Demo\Talabat_Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
